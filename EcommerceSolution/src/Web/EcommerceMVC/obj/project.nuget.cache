@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "4ejVVa370Z8=",
+  "dgSpecHash": "nUSmdWg1390=",
   "success": true,
   "projectFilePath": "C:\\Users\\docto\\projetos\\.net\\revisoes\\ecommerce\\EcommerceSolution\\src\\Web\\EcommerceMVC\\EcommerceMVC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\docto\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\docto\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\10.0.1\\swashbuckle.aspnetcore.annotations.10.0.1.nupkg.sha512",
+    "C:\\Users\\docto\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\docto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\docto\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
